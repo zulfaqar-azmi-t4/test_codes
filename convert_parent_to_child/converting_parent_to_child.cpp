@@ -1,3 +1,8 @@
+// Disclaimer
+// This is NOT my code. I found it in stack overflow.
+// The actual link is as follows https://stackoverflow.com/questions/60955936/is-there-any-way-in-c-to-cast-copy-a-parent-class-into-a-child-class
+
+
 #include <iostream>
 #include <utility>
 
